@@ -1,3 +1,3 @@
 # Scripts
 
-Scripts written for CSec 201.
+Scripts written for NSSA 221.
