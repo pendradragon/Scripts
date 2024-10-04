@@ -1,4 +1,3 @@
-# Megan Kerstetter
 # 9/17/24
 
 #it's shebang time B)
