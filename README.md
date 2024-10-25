@@ -10,3 +10,6 @@ ping_test.py (Script01)
 
   system_report.py (Script02)
     Purpose: To create a script that automates the process of manually running commands that gathers system information from each host. 
+
+  shortcut.py (Script 03)
+    Purpose: Finding and creating symbolic links, including identifying their target paths, using both Bash and Python commands within the script.
