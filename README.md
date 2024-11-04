@@ -13,3 +13,6 @@ ping_test.py (Script01)
 
   shortcut.py (Script 03)
     Purpose: Finding and creating symbolic links, including identifying their target paths, using both Bash and Python commands within the script.
+
+  attacker_report.py (Script 04)
+     Purpose: This report will analyze the system log file, highlighting IP addresses with ten or more failed login attempts. It should include the number of these attempts, their countries of origin, and the report's date. This script will help identify potentially compromised servers across the organization. 
