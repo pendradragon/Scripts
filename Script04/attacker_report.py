@@ -1,4 +1,3 @@
-#Megan Kerstetter
 #Due Date: 11/15/2024
 
 #! /usr/bin/env python3
